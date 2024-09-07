@@ -1,0 +1,27 @@
+.header input{
+    padding:7px;
+    border-radius: 5px;
+    margin-left: 100px;
+
+}
+.header button{
+    margin-left:50px ;
+    padding:5px;
+    cursor: pointer;
+}
+
+.container {
+    margin-top: 70px;
+}
+.container li{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.container button{
+    cursor: pointer;
+}
+
+.hidden{
+    display:none;
+}
